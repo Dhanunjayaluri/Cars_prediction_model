@@ -1,9 +1,7 @@
 import pandas as pd
 import streamlit as st
 import datetime
-import streamlit as st
 import pickle
-import sklearn
 
 st.header('Cars24 Price Prediction App', divider='rainbow')
 
